@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .top-container {
   background-color: #EAF6F6;
   position: relative;
